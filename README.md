@@ -1,2 +1,2 @@
-# Machine-Learning-Deep-Learning
-Those files are the homework from Machine Learning and Deep Learning, basic knowledge for understanding how to construct an overall ML &amp; DL model.
+# Machine Learning & Deep Learning
+Those files are homeworks from Machine Learning and Deep Learning, basic knowledge for understanding how to construct an overall ML & DL model.
